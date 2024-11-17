@@ -110,27 +110,28 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 
-![image](https://github.com/user-attachments/assets/0aaddd21-f37f-4b44-8afd-e5af0af8cb31)
+![370157731-0402e7ce-65e3-4939-8e33-3c4ab565bec8](https://github.com/user-attachments/assets/53a69a37-b83c-495f-a1d0-d6950600b5ad)
+
 
 
 
 ### ii) Display the video
-
-![Screenshot 2024-09-25 151841](https://github.com/user-attachments/assets/37e86142-8949-4f0f-92a0-6c466c90900e)
+![370157733-104b5718-3c90-4366-8c80-441af70fd6ba](https://github.com/user-attachments/assets/9d8dbae7-ed02-4e56-a234-fee9a497e6cd)
 
 
 
 
 ### iii) Display the video by resizing the window
 
-![Screenshot 2024-09-25 152055](https://github.com/user-attachments/assets/033e14c4-8b65-4884-9ec9-35a8cfef86f3)
+![370157761-5729aadf-3df5-4734-9eec-7116890d353f](https://github.com/user-attachments/assets/06885cf8-2811-40af-b652-d22f51fb8f9d)
+
 
 
 
 
 ### iv) Rotate and display the video
 
-![Screenshot 2024-09-25 152327](https://github.com/user-attachments/assets/2fb5e77c-e377-40b6-a0f0-65dcc0cfc4cb)
+![370157782-16828ec8-dd0f-48e6-9fbb-ec2955188154](https://github.com/user-attachments/assets/b08eb0ad-2c9e-40cc-a68b-ca66c5331611)
 
 
 
